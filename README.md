@@ -1,4 +1,12 @@
-Team members disagreed with the evaluation outcome and believed the below mentioned criteria were not consistently applied.
+### **Important Instructions**:
+
+- Click on _"Use this template"_ button and _"Create a new repository"_ in your github account for submission.
+  <img width="1262" height="93" alt="Screenshot 2025-08-15 at 5 59 49 AM" src="https://github.com/user-attachments/assets/b72d5afd-ba07-4da1-ac05-a373b3168b6a" />
+
+- Add one of the following open source licenses - [MIT](https://opensource.org/licenses/MIT), [Apache 2.0](https://opensource.org/licenses/Apache-2.0) or [BSD 3-Clause](https://opensource.org/licenses/BSD-3-Clause) to your submission repository.
+- Once your repository is ready for **evaluation** send an email to ennovatex.io@samsung.com with the subject - "AI Challenge Submission - Team name" and the body of the email must contain only the Team Name, Team Leader Name & your GitHub project repository link.
+- All submission project materials outlined below must be added to the github repository and nothing should be attached in the submission email.
+- In case of any query, please feel free to reach out to us at ennovatex.io@samsung.com
 
 #### Evaluation Criteria
 
